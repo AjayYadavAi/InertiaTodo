@@ -7,6 +7,37 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+
+## Steps:
+   -Laravel New InertiaJsProject
+   -composer require laravel/breeze --dev
+   -php artisan breeze:install vue 
+   -npm install && npm run dev 
+   -npm run watch 
+    
+
+### Laravel , Vue 3
+
+### run project :
+	- create .env 
+	- composer install
+	- php artisan key:generate
+	- php artisan serve 
+	- npm install 
+	- npm run dev 
+	- npm run watch
+	
+
+
+# Output
+
+![alt text](https://github.com/AjayYadavAi/InertiaTodo/blob/main/image.png?raw=true)
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
